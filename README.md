@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Joohhnnyyy/LeetCode/tree/master/0018-4sum) |
 | [0234-palindrome-linked-list](https://github.com/Joohhnnyyy/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Joohhnnyyy/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Joohhnnyyy/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Joohhnnyyy/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
